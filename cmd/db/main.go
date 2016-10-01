@@ -11,7 +11,7 @@ import (
 func main() {
 	app := cli.NewApp()
 	app.Name = "db"
-	app.Version = "0.0.24"
+	app.Version = "0.1.24"
 	app.Compiled = time.Now()
 	app.Authors = []cli.Author{
 		cli.Author{
@@ -20,7 +20,7 @@ func main() {
 		},
 	}
 	app.Copyright = "(c) 2016 girigiribauer"
-	app.Usage = "the command line tool with docker (required Docker)"
+	app.Usage = "`db` command line tools (Docker based)"
 	app.UsageText = "db [options]"
 
 	app.Flags = []cli.Flag{
