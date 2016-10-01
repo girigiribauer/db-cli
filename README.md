@@ -22,6 +22,12 @@ If you are developer (case: Linux, MacOS)
 
 	$ go install
 
+or Homebrew (case: MacOS)
+
+	$ brew tap girigiribauer/db-cli
+
+	$ brew install db-cli
+
 If you are end-user, you can download release binaries.
 
 <https://github.com/girigiribauer/db-cli/releases>
