@@ -24,7 +24,7 @@ If you are developer (case: Linux, MacOS)
 
 If you are end-user, you can download release binaries.
 
-(Not yet...)
+<https://github.com/girigiribauer/db-cli/releases>
 
 ### step3. Check
 
@@ -166,5 +166,4 @@ default: "~/"
 
 ## soon...
 
-* distribute release binaries
 * add PostgreSQL driver
