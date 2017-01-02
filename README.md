@@ -18,7 +18,7 @@ If you are developer (case: Linux, MacOS)
 
 	$ go get github.com/girigiribauer/db-cli
 
-	$ cd $GOPATH/src/github.com/girigiribauer/db-cli
+	$ cd $GOPATH/src/github.com/girigiribauer/db-cli/cmd/db
 
 	$ go install
 
